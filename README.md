@@ -1,6 +1,7 @@
 # Machine learning-based prediction of early recurrence in glioblastoma patients: a glance towards precision medicine
 
 **ABSTRACT**
+
 **Objective**
 Ability to thrive and time-to-recurrence following treatment are important parameters to assess in patients with glioblastoma multiforme (GBM), given its dismal prognosis. Though there is an ongoing debate whether it can be considered an appropriate surrogate endpoint for overall survival in clinical trials, progression-free survival (PFS) is routinely used for clinical decision-making. The aim of the present study is to investigate whether machine learning (ML)-based models can reliably stratify newly diagnosed GBM patients into prognostic subclasses on PFS basis, identifying those at higher risk for an early recurrence (≤ 6 months).
 
