@@ -14,3 +14,7 @@ A Random Forest Classifier was trained to predict PFS as a categorical variable;
 
 **Conclusions**
 A robust ML-based prediction model that identifies patients at high risk for early recurrence was successfully trained and internally validated. Considerable effort remains to integrate these predictions in a patient-centered care context.
+
+<p align="center">
+  <img width="1400" height="800" src="https://github.com/valerio-mc/ML-6months-PFS-GBM/blob/master/workflow.png">
+</p>
